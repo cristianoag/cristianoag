@@ -1,5 +1,5 @@
 # 💫 About Me:
-With over 30 years in technology, I work at the intersection of large-scale enterprise innovation and hands-on hardware engineering. I’m currently a CSA Director for Technical Strategy at Microsoft, leading global AI and Microsoft 365 Copilot adoption with strategic customers worldwide. Alongside my corporate work, I run Blue Electronics and The Retro Hacker, where I design open-source hardware and software for vintage computing platforms like MSX. I’m deeply passionate about embedded systems, Verilog, C, and digital craftsmanship, and I actively share my projects on GitHub. I also believe endurance sports teach the same discipline and focus that great engineering requires.
+With over 30 years in technology, I work at the intersection of large-scale enterprise innovation and hands-on hardware engineering. I’m currently a CSA Director for Technical Strategy at Microsoft, leading global AI and Microsoft 365 Copilot adoption with strategic customers worldwide. Alongside my corporate work, I run Blue Electronics and The Retro Hacker, where I design open-source hardware and software for vintage computing platforms like MSX. I’m deeply passionate about embedded systems, Verilog, C, and digital craftsmanship, and I actively share my projects on GitHub.
 
 
 ## 🌐 Socials:
