@@ -1,24 +1,55 @@
-# 💫 About Me:
-With over 30 years in technology, I work at the intersection of large-scale enterprise innovation and hands-on hardware engineering. I’m currently a CSA Director for Technical Strategy at Microsoft, leading global AI and Microsoft 365 Copilot adoption with strategic customers worldwide. Alongside my corporate work, I run Blue Electronics and The Retro Hacker, where I design open-source hardware and software for vintage computing platforms like MSX. I’m deeply passionate about embedded systems, Verilog, C, and digital craftsmanship, and I actively share my projects on GitHub.
+<div align="center">
 
+# Cristiano Almeida Goncalves
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cristianoag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/crisag) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theretrohacker) 
+### Technology leader, cloud architect, and open-source hardware maker
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-%23000000.svg?style=for-the-badge&logo=verilog&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-%236B2E8A.svg?style=for-the-badge&logo=vhdl&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cristianoag&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cristianoag&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianoag&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I help organizations turn emerging technology into practical outcomes, from enterprise AI and Microsoft 365 Copilot adoption to hands-on FPGA and embedded systems engineering.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cristianoag&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisag/)
+[![YouTube](https://img.shields.io/badge/YouTube-The_Retro_Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theretrohacker)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristianoag)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cristianoag&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=cristianoag&icon=0&color=0)](https://visitcount.itsvg.in)
+## About me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a **CSA Director for Technical Strategy at Microsoft**, where I lead global AI and Microsoft 365 Copilot adoption with strategic customers. My work draws on more than 30 years of experience across technology consulting, solution delivery, sales, and multi-cloud architecture.
+
+Outside my corporate role, I run **Blue Electronics** and **The Retro Hacker**, creating open-source hardware and software for vintage computers. I enjoy bringing classic platforms back to life with modern components while documenting the work so others can learn, build, and contribute.
+
+- **Enterprise technology:** AI strategy, Microsoft 365 Copilot, cloud architecture, and technical leadership
+- **Engineering:** FPGA design, embedded systems, digital electronics, and PCB development
+- **Software:** C, C++, Verilog, VHDL, Python, and PowerShell
+- **Current interests:** MSX computers, retro hardware preservation, ESP32, RP2040, and open-source design
+- **Based in:** Brazil
+
+## Featured projects
+
+| Project | What it is |
+| --- | --- |
+| [MSX PicoVerse](https://github.com/cristianoag/msx-picoverse-public) | Public repository for the MSX PicoVerse project. |
+| [TRHMSX](https://github.com/cristianoag/trhmsx) | A simple open-source MSX2+ computer implemented on FPGA. |
+| [TRH9000](https://github.com/cristianoag/trh9000) | An open-source MSX graphics card based on the Yamaha V9990 chip. |
+| [uMSX](https://github.com/cristianoag/uMSX) | Build, programming, and testing resources for the uMSX FPGA MSX2+ clone. |
+| [ESP32 CP400](https://github.com/cristianoag/ESP32_CP400) | An ESP32-based recreation of the Brazilian Prologica CP400 computer. |
+| [microSDMapper Wireless](https://github.com/cristianoag/microsdmapperv1) | A wireless microSD storage solution for MSX computers. |
+
+## Areas of expertise
+
+<p>
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+  <img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="Verilog" src="https://img.shields.io/badge/Verilog-111111?style=flat-square">
+  <img alt="VHDL" src="https://img.shields.io/badge/VHDL-6B2E8A?style=flat-square">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+</p>
+
+## Let's connect
+
+I share professional updates on [LinkedIn](https://www.linkedin.com/in/crisag/) and retro-computing builds on [The Retro Hacker](https://www.youtube.com/@theretrohacker). Explore my repositories, open an issue, or start a discussion if one of these projects interests you.
