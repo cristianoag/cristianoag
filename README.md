@@ -46,15 +46,24 @@ Outside my corporate role, I run **Blue Electronics** and **The Retro Hacker**, 
 
 ## Areas of expertise
 
+My experience connects enterprise architecture and technical leadership with hands-on networking, software development, and open-source hardware.
+
 <p>
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
   <img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white">
+  <img alt="Microsoft Copilot" src="https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=flat-square">
+  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
+  <img alt="Networks and TCP/IP" src="https://img.shields.io/badge/Networks_%26_TCP%2FIP-0F172A?style=flat-square">
+  <img alt="Routing Protocols" src="https://img.shields.io/badge/Routing_Protocols-0F172A?style=flat-square">
+  <img alt="AI-Assisted Development" src="https://img.shields.io/badge/AI--Assisted_Development-6B2E8A?style=flat-square">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img alt="Verilog" src="https://img.shields.io/badge/Verilog-111111?style=flat-square">
   <img alt="VHDL" src="https://img.shields.io/badge/VHDL-6B2E8A?style=flat-square">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
+  <img alt="ESP32 Development" src="https://img.shields.io/badge/ESP32_Development-E7352C?style=flat-square&logo=espressif&logoColor=white">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white">
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
 </p>
