@@ -15,15 +15,18 @@ I help organizations turn emerging technology into practical outcomes, from ente
 
 ## About me
 
-I am a **CSA Director for Technical Strategy at Microsoft**, where I lead global AI and Microsoft 365 Copilot adoption with strategic customers. My work draws on more than 30 years of experience across technology consulting, solution delivery, sales, and multi-cloud architecture.
+I am a **CSA Director for Technical Strategy in Microsoft's Worldwide Customer Success Unit**, leading global architecture and adoption strategy for AI-driven, cloud-based workplace solutions across Microsoft's top 500 enterprise customers. I work with C-level executives and enterprise architects on cloud modernization, hybrid-cloud patterns, secure agent architectures, and practical adoption roadmaps.
+
+My career spans **more than 30 years in technology**, including Microsoft roles since 2001 across consulting, regional architecture, technical sales, and global customer success leadership. I combine hands-on engineering with business strategy, helping teams move from architecture and proof of concept to production deployment and measurable adoption.
 
 Outside my corporate role, I run **Blue Electronics** and **The Retro Hacker**, creating open-source hardware and software for vintage computers. I enjoy bringing classic platforms back to life with modern components while documenting the work so others can learn, build, and contribute.
 
-- **Enterprise technology:** AI strategy, Microsoft 365 Copilot, cloud architecture, and technical leadership
+- **Enterprise technology:** AI strategy, Microsoft 365 Copilot and Copilot Studio, cloud modernization, and technical leadership
+- **Leadership:** Global teams, executive advisory, cross-functional delivery, and customer success
 - **Engineering:** FPGA design, embedded systems, digital electronics, and PCB development
 - **Software:** C, C++, Verilog, VHDL, Python, and PowerShell
-- **Current interests:** MSX computers, retro hardware preservation, ESP32, RP2040, and open-source design
-- **Based in:** Brazil
+- **Current interests:** AI-assisted software development, MSX computers, retro hardware preservation, ESP32, RP2040, and open-source design
+- **Based in:** Greater Belo Horizonte, Brazil
 
 ## Featured projects
 
