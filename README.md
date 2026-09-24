@@ -29,7 +29,9 @@ Outside my corporate role, I run **Blue Electronics** and **The Retro Hacker**, 
 
 | Project | What it is |
 | --- | --- |
+| [RetroLink](https://github.com/cristianoag/retrolink) | My newest open-source controller adapter project for classic MSX computers, built around the RP2040 Zero. RetroLink USB targets USB HID joysticks and gamepads, while RetroLink MD targets Mega Drive/Genesis controllers through the MSX joystick port. The repository includes PCB designs and firmware for both variants, with physical hardware validation still pending. |
 | [MSX PicoVerse](https://github.com/cristianoag/msx-picoverse-public) | A family of RP2040 and RP2350-powered MSX cartridges with ROM loaders, Nextor storage, memory expansion, USB peripherals, Wi-Fi, and advanced sound emulation. The repository includes ready-to-flash firmware and production-ready hardware files. |
+| [MSX-USB](https://github.com/cristianoag/MSXUSB) | A community project bringing USB connectivity to MSX computers through CH376S-based cartridges. I collaborate extensively on hardware and software, creating the v4 and v5 PCBs and contributing drivers, CPLD logic, and supporting code to help connect USB peripherals to classic MSX systems. |
 | [ESP32 Clone Series](https://github.com/cristianoag/esp32_clones) | Shared hardware, firmware, and documentation for practical ESP32-S3 recreations of Brazilian 8-bit computers. Current firmware targets the Prologica CP400/CoCo 2 and MSX1, MSX2, and MSX2+ with VGA, USB keyboard, and SD storage. |
 | [TRHMSX](https://github.com/cristianoag/trhmsx) | A low-cost, open-source MSX2+ computer built around a Cyclone I FPGA. It reworks the 1chipMSX architecture with a new PCB and practical enhancements for builders. |
 | [uMSX](https://github.com/cristianoag/uMSX) | A compact MSX2+ FPGA computer based on the KDL/OCM core and an Altera Cyclone I. Its surface-mount design also makes it a hands-on electronics and SMD soldering project. |
